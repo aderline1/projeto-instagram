@@ -16,5 +16,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <br>
 <br>
+<h2>link do projeto: <a href="https://silly-sprinkles-bfd637.netlify.app/">Instagram</a></h2> 
+<br>
+<br>
+  
 <img src="https://github.com/aderline1/projeto-instagram/blob/master/imagem/Captura%20de%20Tela%20(76).png?raw=true"/>
 
